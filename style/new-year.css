@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+}
+.header{
+    width:80%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+.header-title{
+    font-weight: 700;
+    font-size: 50px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header-sub-title{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 20px;
+    position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    
+}
+
+.text-primary{
+    color: #FF0000;
+}
+.main-title{
+    text-align: center;
+    margin-top: 20px;
+    font-size:50px;
+    font-weight: 900;
+}
+.main-sub-title{
+    text-align: center;
+    margin-top: 30px;
+    font-size:20px;
+    font-weight: 500;
+}
+.text{
+    font-size:25px ;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.main{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+
+.div-title{
+        font-weight: 400;
+        font-size: 15px;
+        position: absolute;
+        margin-top: 25%;
+        margin-left: 50px;
+        color: white;
+    }
+.div-sub-title{
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 20px;
+    position: absolute;
+    margin-top:15%;
+    margin-left: 50px;
+    color: white;
+}
+.div-join{
+    font-weight: 500;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 50px;
+    color: white;
+}
+.div{
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+    align-items: start;
+    background-image: url('../B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+}
+.div2{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.offer-title{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.offer-sub-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.title-div{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.div3{
+    margin-top: 90px;
+    margin-left: 70px;
+}
+.table{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 5px;
+}
+.portfolio-title{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+.portfolio-sub-title{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 900;
+    margin-left: 30px;
+}
+.portfolio-p{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.input{
+    margin-top: 20px;
+    align-items: center;
+    background-color: rgba(255, 182, 193, 0.233) ;
+    margin-bottom: 20px;
+}
+.input-title{
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+.input-sub-title{
+    align-items: center;
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.foot{
+    background-color: black;
+    color: white;
+}
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 150px;
+}
+.footer-title{
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 10px;
+    font-weight: 100;
+}
+.img{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-top: 20%;
+    margin-bottom: 50px;
+   
+}
+.footer-sub-title{
+    
+    margin-top: 40px;
+    font-size: 10px;
+    font-weight: 100;
+}
+.Subscribe{
+    margin-top: 20px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-right: 50px;
+    font-size: 10px;
+    font-weight: 200;
+   
+}
